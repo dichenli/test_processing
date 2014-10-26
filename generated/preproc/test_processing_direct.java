@@ -23,6 +23,7 @@ public void setup(){
  
 public void draw(){ 
 	ellipse(50,50,80,80); 
+	ellipse(100,100,80,80); 
 } 
     static public void main(String args[]) {
         PApplet.main(new String[] { "--bgcolor=#ECE9D8", "test_processing_direct" });
